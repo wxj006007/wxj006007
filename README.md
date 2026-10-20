@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wxj006007">GitHub @wxj006007</a> ·
   <a href="#selected-projects">精选项目</a> ·
   <a href="#tech-stack">技术栈</a>
 </p>
@@ -90,6 +89,5 @@
 
 - **毕业时间：**2028 年
 - **联系方式：**GitHub 个人资料中展示的邮箱
-- **GitHub：**[wxj006007](https://github.com/wxj006007)
 
 欢迎联系交流岗位机会，也欢迎通过项目仓库的 Issues 讨论实现细节与改进建议。
