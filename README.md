@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="#contributing-to">Contributing to</a> ·
   <a href="#selected-projects">Selected Projects</a> ·
   <a href="#tech-stack">Tech Stack</a>
 </p>
@@ -22,6 +23,15 @@ I handle development across all components of AI Meeting, Cloud Agent, and AI Si
 - **Backend engineering:** Asynchronous APIs, authentication, caching, task queues, and concurrency and consistency in stateful workflows.
 - **AI & agents:** Multi-agent workflows, tool calling, context assembly, and memory management.
 - **Application development:** Streaming conversations, real-time voice interactions, browser extensions, and interactive interfaces.
+
+<a id="contributing-to"></a>
+
+### Contributing to
+
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Prewarmed the pinned package-runner cache during setup to prevent first-start MCP timeouts, with bounded, non-fatal failure handling and regression tests. [PR #7032 · merged](https://github.com/morluto/rea/pull/7032)
+- **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat&color=gold)](https://github.com/shareAI-lab/learn-claude-code) - Made S15 background task registration and result collection atomic so concurrent consumers deliver each result once, with a concurrency regression test. [PR #525 · merged](https://github.com/shareAI-lab/learn-claude-code/pull/525)
+- **[Tencent Hunyuan Hy3](https://github.com/Tencent-Hunyuan/Hy3)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hy3?style=flat&color=gold)](https://github.com/Tencent-Hunyuan/Hy3) - Proposed a FastMCP server for requirements clarification, technical proposal generation and review, and implementation planning, with sandboxed project context. [PR #96 · open](https://github.com/Tencent-Hunyuan/Hy3/pull/96)
+- **[Vuetify](https://github.com/vuetifyjs/vuetify)** [![GitHub stars](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=flat&color=gold)](https://github.com/vuetifyjs/vuetify) - Proposed customizable `placeholder` slots for `VField`, `VTextField`, and `VTextarea`, supporting Vue transitions and custom content. [PR #22918 · open](https://github.com/vuetifyjs/vuetify/pull/22918)
 
 <a id="selected-projects"></a>
 
